@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Harpreet Singh, @Chandigarh-University-Wale
+- 👀 I’m interested in competitive programming, doing open-source contributions, and gaining professional work exposure.
+- 🌱 I’m currently learning C++, Java, Python and Github.
+- 💞️ I’m looking to collaborate on an open-source project or an internship.
+- 📫 How to reach me -> Harpreet.Singh.120701@gmail.com
+-  ▶ LinkedIn -> https://www.linkedin.com/in/harpreetsingh1729
